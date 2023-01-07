@@ -1,0 +1,11 @@
+ja:
+  activerecord:
+    models:
+      schedule: "予定"
+    attributes:
+      schedule:
+        title: "タイトル"
+        start: "開始日"
+        finish: "終了日"
+        memo: "スケジュールメモ"
+      
